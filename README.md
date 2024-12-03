@@ -7,7 +7,7 @@
 ### 📂 폴더 구조
 
 1. **핵심 노트북 및 스크립트**
-   - `cover.ipynb`: 앨범 커버의 RGB 값을 예측하는 회귀 모델 구현
+   - `cover.ipynb`: 주어진 쿼리의 RGB 값을 예측하는 회귀 모델 구현
    - `dl_sbert.ipynb`: SBERT 임베딩을 활용한 딥러닝 기반 색상 예측 모델
    - `lyrics.ipynb`: 가사 데이터를 활용한 노래 추천 모델 구현
    - `preprocessing.ipynb`: 가사 크롤링 및 앨범 색상 추출 등의 전처리 작업 수행
